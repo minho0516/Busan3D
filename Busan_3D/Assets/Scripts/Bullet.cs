@@ -19,5 +19,6 @@ public class Bullet : MonoBehaviour
         move = transform.forward;
 
         rd.velocity = move * BulletSpeed;
+        //ming
     }
 }
